@@ -40,3 +40,10 @@ One Case:  Medication Remainder
 Elderly people often need to take multiple medications throughout the day, and it can be easy to forget when to take each one. A medication reminder system can help ensure that elderly people take their medications on time and in the correct dosage.
 
 This program generates an HTML table with columns for the name of the medication, the dosage, the time it should be taken, and a checkbox to mark whether the medication has been taken. The medication reminder can be updated as needed, and the HTML page can be displayed on a computer or mobile device to help elderly people stay on track with their medication schedule. The medication reminder can also include features such as reminders, tracking of medication completion, and communication with healthcare providers to ensure that elderly people are getting the care they need.
+
+
+Second Case: Daily Activity Tracker
+
+Many elderly people may have difficulty keeping track of their daily activities, which can affect their physical and mental health. A daily activity tracker can help them stay on track with their daily routine and ensure that they are taking care of themselves.
+
+This program generates an HTML table with columns for the name of the activity, the time it should be done, and a checkbox to mark whether the activity has been completed. The daily activity tracker can be updated as needed, and the HTML page can be displayed on a computer or mobile device to help elderly people stay on track with their daily routine. The activity tracker can also include features such as reminders, tracking of activity completion, and communication with healthcare providers to ensure that elderly people are getting the care they need.
