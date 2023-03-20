@@ -7,11 +7,16 @@ Here are some general suggestions for seniors like Sunitha Sharma to live a heal
 
 Maintain Sunitha's physical and mental well-being by encouraging her to engage in frequent physical activity, such as walking, yoga, or swimming.
 Consume a well-balanced diet: A diet rich in fruits, vegetables, whole grains, and lean protein can help to prevent a variety of health concerns. Additionally, make certain that Sunitha is drinking enough water and staying hydrated.
+
 Keep Mind Active: Encourage Sunitha to keep her mind engaged by performing crossword puzzles, reading books, or acquiring new skills.
 Maintain contact with family and friends: Social isolation can lead to depression and other health issues. Urge Sunitha to maintain in-person or virtual contact with family and friends.
+
 Managing Chronic Conditions: Elderly are more likely than younger people to have chronic disorders like diabetes, heart disease, and arthritis. Regular check-ups, medication adherence, and healthy lifestyle choices can all help seniors maintain their health and quality of life.
+
 Getting Enough Sleep: Sleep is critical to our general health and well-being. Because of age-related changes or underlying health issues, seniors may have difficulty sleeping. Creating a pleasant sleep environment, avoiding caffeine and alcohol, and establishing a regular sleep schedule can help seniors receive the rest they require.
+
 Handle stress: Encourage Sunitha to engage in stress-relieving activities such as meditation or yoga, which can assist her in dealing with stress and maintaining mental well-being.
+
 Be safe: Make sure Sunitha is taking the essential safety precautions, such as wearing a seatbelt while driving, utilising mobility aids as needed, and taking efforts to avoid falls.
 
 
@@ -31,6 +36,7 @@ The following functionalities would be included in the functioning prototype tha
 
 
 One Case:  Medication Remainder
+
 Elderly people often need to take multiple medications throughout the day, and it can be easy to forget when to take each one. A medication reminder system can help ensure that elderly people take their medications on time and in the correct dosage.
 
 This program generates an HTML table with columns for the name of the medication, the dosage, the time it should be taken, and a checkbox to mark whether the medication has been taken. The medication reminder can be updated as needed, and the HTML page can be displayed on a computer or mobile device to help elderly people stay on track with their medication schedule. The medication reminder can also include features such as reminders, tracking of medication completion, and communication with healthcare providers to ensure that elderly people are getting the care they need.
