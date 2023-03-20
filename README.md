@@ -47,3 +47,10 @@ Second Case: Daily Activity Tracker
 Many elderly people may have difficulty keeping track of their daily activities, which can affect their physical and mental health. A daily activity tracker can help them stay on track with their daily routine and ensure that they are taking care of themselves.
 
 This program generates an HTML table with columns for the name of the activity, the time it should be done, and a checkbox to mark whether the activity has been completed. The daily activity tracker can be updated as needed, and the HTML page can be displayed on a computer or mobile device to help elderly people stay on track with their daily routine. The activity tracker can also include features such as reminders, tracking of activity completion, and communication with healthcare providers to ensure that elderly people are getting the care they need.
+
+
+Third Case: socialization platform
+
+Many elderly people live alone and may have limited opportunities for social interaction, which can lead to loneliness and depression. A socialization platform can provide a way for elderly people to connect with others, share interests, and engage in group activities.
+
+This program generates an HTML table with columns for the name of the group activity, the time of the activity, and the location. The group activities can be updated each day, and the HTML page can be displayed on a computer or mobile device to help elderly people find and participate in group activities. The socialization platform can also include features such as messaging, forums, and virtual events to help elderly people connect with others and combat social isolation.
