@@ -9,10 +9,10 @@ Maintain Sunitha's physical and mental well-being by encouraging her to engage i
 Consume a well-balanced diet: A diet rich in fruits, vegetables, whole grains, and lean protein can help to prevent a variety of health concerns. Additionally, make certain that Sunitha is drinking enough water and staying hydrated.
 Keep Mind Active: Encourage Sunitha to keep her mind engaged by performing crossword puzzles, reading books, or acquiring new skills.
 Maintain contact with family and friends: Social isolation can lead to depression and other health issues. Urge Sunitha to maintain in-person or virtual contact with family and friends.
-Have regular health check-ups: Sunitha must undergo regular health check-ups with her doctor in order to monitor any health problems and address them as soon as possible.
+Managing Chronic Conditions: Elderly are more likely than younger people to have chronic disorders like diabetes, heart disease, and arthritis. Regular check-ups, medication adherence, and healthy lifestyle choices can all help seniors maintain their health and quality of life.
+Getting Enough Sleep: Sleep is critical to our general health and well-being. Because of age-related changes or underlying health issues, seniors may have difficulty sleeping. Creating a pleasant sleep environment, avoiding caffeine and alcohol, and establishing a regular sleep schedule can help seniors receive the rest they require.
 Handle stress: Encourage Sunitha to engage in stress-relieving activities such as meditation or yoga, which can assist her in dealing with stress and maintaining mental well-being.
 Be safe: Make sure Sunitha is taking the essential safety precautions, such as wearing a seatbelt while driving, utilising mobility aids as needed, and taking efforts to avoid falls.
-
 
 
 One use case for elderly care that comes to mind is a smart home system that helps elderly people manage their daily routines and keep them safe.
@@ -28,3 +28,9 @@ The following functionalities would be included in the functioning prototype tha
 4. Smart lighting: The technology will alter the lighting in the home automatically to guarantee that the older person has appropriate lighting and can avoid falls.
 
 5. Remote monitoring: The system would allow carers or family members to remotely watch the old person's activity and receive alerts in the event of any unusual activity or an emergency.
+
+
+One Case:  Medication Management
+Many elderly people take multiple medications each day, and may have difficulty remembering which medications to take and when to take them. A medication management system can help ensure that elderly people are taking their medications as prescribed, and can also provide alerts and reminders to take medications on time.
+
+This program generates an HTML table with columns for the name of the medication, the dosage, the time it should be taken, and a checkbox to mark whether the medication has been taken. The medication reminder can be updated as needed, and the HTML page can be displayed on a computer or mobile device to help elderly people stay on track with their medication schedule. The medication reminder can also include features such as reminders, tracking of medication completion, and communication with healthcare providers to ensure that elderly people are getting the care they need.
