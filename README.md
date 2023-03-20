@@ -30,7 +30,7 @@ The following functionalities would be included in the functioning prototype tha
 5. Remote monitoring: The system would allow carers or family members to remotely watch the old person's activity and receive alerts in the event of any unusual activity or an emergency.
 
 
-One Case:  Medication Management
-Many elderly people take multiple medications each day, and may have difficulty remembering which medications to take and when to take them. A medication management system can help ensure that elderly people are taking their medications as prescribed, and can also provide alerts and reminders to take medications on time.
+One Case:  Medication Remainder
+Elderly people often need to take multiple medications throughout the day, and it can be easy to forget when to take each one. A medication reminder system can help ensure that elderly people take their medications on time and in the correct dosage.
 
 This program generates an HTML table with columns for the name of the medication, the dosage, the time it should be taken, and a checkbox to mark whether the medication has been taken. The medication reminder can be updated as needed, and the HTML page can be displayed on a computer or mobile device to help elderly people stay on track with their medication schedule. The medication reminder can also include features such as reminders, tracking of medication completion, and communication with healthcare providers to ensure that elderly people are getting the care they need.
